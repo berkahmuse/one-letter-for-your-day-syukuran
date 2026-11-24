@@ -1,8 +1,8 @@
 # One Letter for Your Day
 
 [![make.fun](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
-[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/chlutud/one-letter-for-your-day-syukuran/rank.svg)](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
-[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/chlutud/one-letter-for-your-day-syukuran/reward.svg)](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/berkahmuse/one-letter-for-your-day-syukuran/rank.svg)](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/berkahmuse/one-letter-for-your-day-syukuran/reward.svg)](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
 
 Entry for the [One Letter for Your Day](https://make.fun/c/u-puan-one-letter-for-your-day-e54e9c36)
 competition on [make.fun](https://make.fun): send exactly one letter, A to Z,
